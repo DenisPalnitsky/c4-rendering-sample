@@ -27,3 +27,4 @@ jobs:
         uses: num30/c4-render@b6be728be13ef44d9813f54e5d51233e33cfd8b2
         with:
           path: diagrams
+          filename: diagram.dsl
