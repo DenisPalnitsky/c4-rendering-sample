@@ -24,7 +24,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script    
-        uses: num30/c4-render@e953798df92c93a0c820774c337bb9488e6ccf7a
+        uses: num30/c4-render@af667d7e59c082e77bc99ef2f1897c05671fd5ee
         with:
           path: diagrams
           filename: diagram.dsl
