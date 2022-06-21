@@ -1,3 +1,3 @@
 # Ukama C4 Diagrams
 
-- [*](md/*.md)
+- [SystemContext](md/SystemContext.md)
