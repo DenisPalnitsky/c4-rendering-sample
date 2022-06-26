@@ -26,5 +26,7 @@ jobs:
       - name: Run a one-line script    
         uses: num30/c4-render@1e3595a78a67ee5a2d7889aa3970bcfbea7b7dec
         with:
-          path: diagrams
+          path: docs
           filename: diagram.dsl
+          github-branch: gh-pages
+          
