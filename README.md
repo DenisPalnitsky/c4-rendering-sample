@@ -4,11 +4,8 @@ Diagram as code example
 
 # Rendering C4 diagrams example 
 
-- Maintain your architecture diagrams in [DSL file](diagram.dsl).
-- Create Github Action Wokrflow using [C4 Render action](https://github.com/marketplace/actions/c4-dsl-render-to-github-markdown) like [here](.github/workflows/render-c4.yml)
-
-
-This will generate [Readme file](README.md) with table of content and [diagram](md/SystemContext.md) in markdown format
+C4 diagram in DSL format is stored in [DSL file](diagram.dsl).
+Github Action Wokrflow uses [C4 Render action](https://github.com/marketplace/actions/c4-dsl-render-to-github-markdown) like [here](.github/workflows/render-c4.yml) to render diagram to markdown files.  It also generates [Readme file](README.md) with table of content.
 
 # C4 Intro 
 
