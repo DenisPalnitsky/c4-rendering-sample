@@ -28,5 +28,5 @@ jobs:
         with:
           path: docs
           filename: diagram.dsl
-          github-branch: gh-pages
+          github-branch: main
           
