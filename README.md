@@ -6,7 +6,9 @@ Github Action Wokrflow uses [C4 Render action](https://github.com/marketplace/ac
 # C4 Intro 
 
 DSL Language reference: https://github.com/structurizr/dsl/blob/master/docs/language-reference.md
+
 More on C4: https://c4model.com/
+
 Check out C4 demo: https://structurizr.com/dsl
 
 
