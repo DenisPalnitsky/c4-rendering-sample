@@ -1,6 +1,3 @@
-# C4 DSL Diagrams Rendering Example
-Diagram as code example
-
 # Rendering C4 diagrams example 
 
 C4 diagram in DSL format is stored in [DSL file](diagram.dsl).
@@ -8,8 +5,8 @@ Github Action Wokrflow uses [C4 Render action](https://github.com/marketplace/ac
 
 # C4 Intro 
 
+DSL Language reference: https://github.com/structurizr/dsl/blob/master/docs/language-reference.md
 More on C4: https://c4model.com/
-
 Check out C4 demo: https://structurizr.com/dsl
 
-DSL Language reference: https://github.com/structurizr/dsl/blob/master/docs/language-reference.md
+
