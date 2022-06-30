@@ -1,6 +1,5 @@
-# c4-rendering-sample
+# C4 DSL Diagrams Rendering Example
 Diagram as code example
-
 
 # Rendering C4 diagrams example 
 
