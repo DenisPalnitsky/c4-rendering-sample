@@ -1,7 +1,6 @@
 # Rendering DSL diagram example 
 
-I this example you'll see how to automate rendering of [DSL](https://github.com/structurizr/dsl/blob/master/docs/language-reference.md) diagram in github markdown. 
-Here is an example of [containers diagram](https://github.com/DenisPalnitsky/c4-rendering-sample/blob/main/docs/md/Containers.md)
+In this example you'll see how to automate rendering of [DSL](https://github.com/structurizr/dsl/blob/master/docs/language-reference.md) diagram in github markdown that will look like this [containers diagram](https://github.com/DenisPalnitsky/c4-rendering-sample/blob/main/docs/md/Containers.md)
 
 ## How it works 
 - Diagram in DSL format is stored in [DSL file](diagram.dsl).
